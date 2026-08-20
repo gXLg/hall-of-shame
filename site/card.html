@@ -1,0 +1,22 @@
+<article class="card">
+  <iframe
+    class="video"
+    null-attr="(q,r,d)=>({'src':'https://www.youtube-nocookie.com/embed/'+d.youtube})"
+    frameborder="0"
+    title="Cheater evidence"
+    allowfullscreen>
+  </iframe>
+
+  <div class="card-content">
+    <h2 class="player-name">
+      Player:
+      <a
+        null-attr="(q,r,d)=>({'href':'https://steamcommunity.com/profiles/'+d.steam})"
+        null-data="(q,r,d)=>d.nickname"
+        target="_blank"
+        rel="noopener noreferrer"
+      ></a>
+    </h2>
+    <div class="hack-list" null-container="#hack.html" null-list="(q,r,d)=>d.hacks"></div>
+  </div>
+</article>

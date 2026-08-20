@@ -1,0 +1,23 @@
+{
+  "name": "hall-of-shame",
+  "version": "1.0.0",
+  "description": "Shut up, they are not cheating",
+  "homepage": "https://github.com/gXLg/hall-of-shame#readme",
+  "bugs": {
+    "url": "https://github.com/gXLg/hall-of-shame/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gXLg/hall-of-shame.git"
+  },
+  "license": "MIT",
+  "author": "gXLg",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "nulls": "^2.13.2"
+  }
+}
