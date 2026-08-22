@@ -143,6 +143,10 @@ hr {
   background: rgba(32, 224, 194, 0.05);
 }
 
+.description {
+  margin: 10px 0;
+}
+
 @media (max-width: 600px) {
   .container {
     width: min(100% - 30px, 1000px);

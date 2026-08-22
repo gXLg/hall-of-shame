@@ -1,14 +1,23 @@
 [
   {
+    "youtube": "GNrxINUjnpk",
+    "nickname": "PitilessGuy",
+    "steam": "76561199210087389",
+    "description": "Activated aim assist after starting to lose the game",
+    "hacks": ["Aim Lock", "Anti Recoil"]
+  },
+  {
     "youtube": "pbOBUZ8WgHk",
     "nickname": "destroyedww",
     "steam": "76561199414460303",
+    "description": "Plays legit on twitch, but fully blatant wallhacking in wingman",
     "hacks": ["Wallhack"]
   },
   {
     "youtube": "imv2wT5oJtw",
     "nickname": "axxny",
     "steam": "76561199388745043",
+    "description": "Bad/boosted player, very poor playstyle, carried by cheats",
     "hacks": ["Wallhack", "Aim Assist"]
   }
 ]
