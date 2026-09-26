@@ -19,5 +19,19 @@
     "steam": "76561199388745043",
     "description": "Bad/boosted player, very poor playstyle, carried by cheats",
     "hacks": ["Wallhack", "Aim Assist"]
+  },
+  {
+    "youtube": "LOnwBYmDSFI",
+    "nickname": "ZDUPYDOMORDYZAUR",
+    "steam": "76561198173860006",
+    "description": "Semi-legit wallhacker, very poor playstyle otherwise",
+    "hacks": ["Wallhack"]
+  },
+  {
+    "youtube": "BjcTpUvXQmc",
+    "nickname": "x",
+    "steam": "76561199198780972",
+    "description": "Full-rage blatant cheater",
+    "hacks": ["Wallhack", "Aim Lock"]
   }
 ]
